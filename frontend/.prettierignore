@@ -1,0 +1,8 @@
+build
+coverage
+node_modules
+public
+.yalc
+vite.config.ts
+vite-env.d.ts
+src/core/AppContext/AppContext.tsx
